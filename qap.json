@@ -1,0 +1,135 @@
+[
+  {
+    "firstName": "Mark",
+    "lastName": "Anthony",
+    "birthDate": "1995-01-01",
+    "gender": "Male",
+    "address": { "street" : "123 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+     "postalCode" : "A1A 1A1",
+     "country" : "Canada"
+     
+    },
+    "Nationality" : "Canadian",
+    "Stay" : "In Campus",
+    "phone" : "709-123-4567",
+    "study" : "Computer Science",
+    "studyType" : "Bachelor",
+    "studyMethod" : "Full Time",
+     "scholarship" : "Yes",
+     "marks" : "80",
+     "scholarshipAmount" : "15000"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Smith",
+    "birthDate": "1994-02-02",
+    "gender": "Female",
+    "address": { "street" : "234 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1B1",
+       "country" : "Canada"
+    },
+    "Nationality" : "Indian",
+    "Stay" : "Off Campus",
+    "phone" : "709-234-5678",
+     "study" : "Mechanical Engineering",
+    "studyType" : "Bachelor",
+    "studyMethod" : "part Time",
+    "scholarship" : "Yes",
+    "marks" : "85",
+    "scholarshipAmount" : "10000"
+    
+    
+  },
+  {
+    "firstName": "David",
+    "lastName": "Hanns",
+    "birthDate": "1993-03-03",
+    "gender": "Male",
+    "address": { "street" : "345 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1C1",
+        "country" : "Canada"
+    },
+    "Nationality" : "Canadian",
+    "Stay" : "Off Campus",
+    "phone" : "709-321-4567",
+     "study" : "Computer Science",
+    "studyType" : "Bachelor",
+    "studyMethod" : "part Time",
+    "scholarship" : "NO",
+    "marks" : "79"
+    
+  },
+  {
+    "firstName": "Mathew",
+    "lastName": "George",
+    "birthDate": "1992-04-04",
+    "gender": "Male",
+    "address": { "street" : "456 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1D1",
+       "country" : "Canada"
+    },
+    "Nationality" : "American",
+    "Stay" : "In Campus",
+    "phone" : "709-143-1234",
+    "study" : "Electrical Engineering",
+    "studyType" : "Bachelor",
+    "studyMethod" : "Full Time",
+    "scholarship" : "Yes",
+    "marks" : "79",
+    "scholarshipAmount" : "12000"
+    
+  },
+  {
+    "firstName": "Antony",
+    "lastName": "Revel",
+    "birthDate": "1991-05-05",
+    "gender": "male",
+    "address": { "street" : "567 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1E1",
+       "country" : "Canada"
+    },
+    "Nationality" : "Canadian",
+    "Stay" : "In Campus",
+    "phone" : "709-709-4567",
+    "study" : "Earth Science",
+    "studyType" : "Bachelor",
+    "studyMethod" : "Full Time",
+    "scholarship" : "Yes",
+    "marks" : "89",
+    "scholarshipAmount" : "18000"
+
+    
+  },
+   {
+    "firstName": "Else",
+    "lastName": "Satharu",
+    "birthDate": "1991-05-05",
+    "gender": "Female",
+    "address": { "street" : "567 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1E1",
+       "country" : "Canada"
+    },
+    "Nationality" : "Bangladeshi",
+    "Stay" : "Off Campus",
+    "phone" : "709-709-77777",
+    "study" : " Social Studies",
+    "studyType" : "Bachelor",
+    "studyMethod" : "part Time",
+    "scholarship" : "No",
+    "marks" : "90"
+
+    
+  }
+]
